@@ -25,8 +25,8 @@ public class 생성자 {
 
         // todo: 졸업생들은 학번을 까먹었습니다... :(
         //  이름과 나이만 입력하고 싶다고 하네요... 학번은 빈 값으로 초기화해주세요!
-        Alomy alomy = new Alomy("윤딴콩","20200290");
-        Alomy alomy = new Alomy("김모짜","20190601");
-        Alomy alomy = new Alomy("배추전","20210512");
+        Alomy alomy = new Alomy("윤딴콩", 28);
+        Alomy alomy = new Alomy("김모짜", 26);
+        Alomy alomy = new Alomy("배추전", 27);
     }
 }
