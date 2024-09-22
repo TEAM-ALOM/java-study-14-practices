@@ -1,6 +1,6 @@
 # 문제 보는 방법(깃허브 잘모르는 분들을 위한)
 
-1. 우측 상단 초록색 `<> Code` 버튼을 누르고 Download ZIP 버튼 선택
+1. 우측 상단 초록색 `<> Code` 버튼을 누르고 `Download ZIP` 버튼 선택
 ![image](https://github.com/user-attachments/assets/d4e37ced-8382-4dcc-b24f-1ceb585f0027)
 
 2. 압축된 파일 해제하고 인텔리제이에서 폴더를 프로젝트로 열기 또는 직접 인텔리제이에서 열기
