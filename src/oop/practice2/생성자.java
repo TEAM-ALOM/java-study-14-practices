@@ -12,21 +12,21 @@ public class 생성자 {
         // todo: 신입생이라서 학번이 없는 사람들이에요~
         //  여러분들이 랜덤하게 학번을 정해주세요!
         //  신입생분들은 모두 나이가 20살입니다!
-        Alomy alomy = new Alomy("김치볶음");
-        Alomy alomy = new Alomy("박불고기");
-        Alomy alomy = new Alomy("이사이다");
+        Alomy freshAlomy1 = new Alomy("김치볶음");
+        Alomy freshAlomy2 = new Alomy("박불고기");
+        Alomy freshAlomy3 = new Alomy("이사이다");
 
         // todo: 복학생들은 이름과 학번, 나이를 모두 기억하고 있어요~
         //  원하는 정보를 다 넘겨줄 수 있어요.
-        Alomy alomy = new Alomy("최떡볶이","20210156",23);
-        Alomy alomy = new Alomy("정짬뽕","20190567",24);
-        Alomy alomy = new Alomy("한라봉","20210478",21);
-        Alomy alomy = new Alomy("오징어게임","20200389",22);
+        Alomy returningAlomy1 = new Alomy("최떡볶이","20210156",23);
+        Alomy returningAlomy2 = new Alomy("정짬뽕","20190567",24);
+        Alomy returningAlomy3 = new Alomy("한라봉","20210478",21);
+        Alomy returningAlomy4 = new Alomy("오징어게임","20200389",22);
 
         // todo: 졸업생들은 학번을 까먹었습니다... :(
         //  이름과 나이만 입력하고 싶다고 하네요... 학번은 빈 값으로 초기화해주세요!
-        Alomy alomy = new Alomy("윤딴콩", 28);
-        Alomy alomy = new Alomy("김모짜", 26);
-        Alomy alomy = new Alomy("배추전", 27);
+        Alomy graduatedAlomy1 = new Alomy("윤딴콩", 28);
+        Alomy graduatedAlomy2 = new Alomy("김모짜", 26);
+        Alomy graduatedAlomy3 = new Alomy("배추전", 27);
     }
 }
