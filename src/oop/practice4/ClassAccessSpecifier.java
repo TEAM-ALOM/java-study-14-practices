@@ -4,7 +4,7 @@ package oop.practice4;
  * 이 파일은 문제 제시 및 테스트용 클래스로 절대 수정하지 않습니다.
  * 여러분들은 todo를 따라 문제를 해결하시면 됩니다!
  */
-public class 접근제어 {
+public class ClassAccessSpecifier {
     public static void main(String[] args) {
         // todo: '접근제어01.java'파일과 같은 폴더에 음식이름(String)과 가격(int)을 갖는 학식 클래스(Haksik.java)를 생성합니다.
         //      학식의 이름과 가격을 마음대로 바꾸지 못하도록 private 접근 제어자를 사용해서 숨겨보세요!

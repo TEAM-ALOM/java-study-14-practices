@@ -4,7 +4,7 @@ package oop.practice2;
  * 이 파일은 문제 제시 및 테스트용 클래스로 절대 수정하지 않습니다.
  * 여러분들은 todo를 따라 문제를 해결하시면 됩니다!
  */
-public class 생성자 {
+public class ClassConstrutor {
     public static void main(String[] args) {
         // todo: '생성자.java'와 같은 폴더에 Alomy라는 이름을 가진 클래스를 아래 요구사항에 맞게 생성해보세요!
         //      Alomy 클래스는 이름(String)과 학번(String), 나이(int)를 갖는 클래스입니다.

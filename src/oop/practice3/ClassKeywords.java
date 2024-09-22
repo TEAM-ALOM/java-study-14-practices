@@ -4,7 +4,7 @@ package oop.practice3;
  * 이 파일은 문제 제시 및 테스트용 클래스로 절대 수정하지 않습니다.
  * 여러분들은 todo를 따라 문제를 해결하시면 됩니다!
  */
-public class 클래스키워드 {
+public class ClassKeywords {
     public static void main(String[] args) {
         // todo: 수학에서 등장하는 복소수를 표현할 클래스(ComplexNumber.java)를 작성해보세요!
         //      복소수는 실수(realNumber: int)와 허수(imaginaryNumber: int)로 이루어져 있습니다.
