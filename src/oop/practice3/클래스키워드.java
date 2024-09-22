@@ -9,7 +9,7 @@ public class 클래스키워드 {
         // todo: 수학에서 등장하는 복소수를 표현할 클래스(ComplexNumber.java)를 작성해보세요!
         //      복소수는 실수(realNumber: int)와 허수(imaginaryNumber: int)로 이루어져 있습니다.
         //      생성자 내부에서는 this 키워드를 사용해 각 멤버 변수를 초기화 해주시고,
-        //       멤버 변수는 모두 final 키워드를 사용하여 선언해주세요!
+        //       멤버 변수는 모두 final 키워드를 사용하여 접근해주세요!
         ComplexNumber real3AndImaginary4 = new ComplexNumber(3, 4);
         ComplexNumber real1AndImaginary7 = new ComplexNumber(1, 7);
 
