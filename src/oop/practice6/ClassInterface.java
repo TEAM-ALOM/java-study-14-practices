@@ -8,11 +8,11 @@ class ClassInterface {
 
         //CalculatorMethod 인터페이스를 implements 받은 Adder, Subtractor, Divider, Multiplier 클래스를 만들어주세요!
 
-        //calculator 객체의 method를 Adder 로 설정해 덧셈을 구현해주세요!
+        //calculator 객체의 method 변수를 Adder 클래스로부터 생성된 인스턴스로 설정해 덧셈을 구현해주세요!
         calculator.setMethod(new Adder());
         System.out.println("Adder : " + calculator.run(2, 1));
 
-        //calculator 객체의 method를 Subtractor 로 설정한 후 뺄셈을 구현해주세요!
+        //같은 방식으로 뺄셈을 구현해주세요!
         calculator.setMethod(new Subtractor());
         System.out.println("Subtractor : " + calculator.run(6, 2));
 
