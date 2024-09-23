@@ -15,8 +15,8 @@ public class ClassInheritance {
         SejongCyberMember s6 = new SejongCyberMember(s3.getAge(), s3.getId(), s3.getName(), 4);
 
         //나이, Id, 이름, 학년을 한 줄에 출력하는 메소드를 만들어주세요!
-        s4.getInfo();
-        s5.getInfo();
-        s6.getInfo();
+        s4.printInfo();
+        s5.printInfo();
+        s6.printInfo();
     }
 }
