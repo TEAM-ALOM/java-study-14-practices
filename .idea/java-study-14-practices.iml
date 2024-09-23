@@ -8,6 +8,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/oop/practice2" />
       <excludeFolder url="file://$MODULE_DIR$/src/oop/practice3" />
       <excludeFolder url="file://$MODULE_DIR$/src/oop/practice4" />
+      <excludeFolder url="file://$MODULE_DIR$/src/oop/practice5" />
+      <excludeFolder url="file://$MODULE_DIR$/src/oop/practice6" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
